@@ -13,9 +13,16 @@ code {
     monospace;
 }
 
-#main-header img {
-  width: 100%;
-  height: 100%;
+#main-header {
+  background-image: url('./jay.jpg');
+  border: #DA684C solid 0.5px;
+  border-radius: 1.25%;
+  background-position: 70% 10%;
+  padding-right: 3rem;
+}
+
+.bg-grey-transparent {
+  background-color: rgba(52, 58, 64, 0.9);
 }
 
 .bg-black {
@@ -26,6 +33,11 @@ code {
 #main-header .port-item{
   width: 30%;
   height: 8em;
+}
+
+#main-header p{
+  font-size: 1em;
+  padding: 10px;
 }
 
 .port-item:hover {
@@ -39,6 +51,17 @@ code {
   }
 }
 
+@media(max-width:1000px){
+  #main-header {
+    padding: 0px;
+    background-position: 35% 0%;
+    background-repeat: no-repeat;
+  }
+
+  .move-down {
+    margin-top: 100vh;
+  }
+}
 /* Nav */
 .name {
   color: #DA684C !important; 
@@ -49,3 +72,9 @@ code {
   background-color: #DA684C !important;
   border: none;
 }
+
+a, a:hover {
+  color: white;
+  text-decoration: none;
+}
+
