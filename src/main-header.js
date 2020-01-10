@@ -17,12 +17,12 @@ class Header extends React.Component {
                                         </a>
                                     </div>
                                     <div className="p-2">
-                                        <a href="facebook.com" className="text-white">
+                                        <a href="https://carleton.ca/law/people/ramasubramanyam-jayantha/" className="text-white">
                                             <i className="fab fa-facebook"></i>
                                         </a>
                                     </div>
                                     <div className="p-2">
-                                        <a href="instagram.com" className="text-white">
+                                        <a href="https://www.instagram.com/shastrij/?hl=en" className="text-white">
                                             <i className="fab fa-instagram"></i>
                                         </a>
                                     </div>

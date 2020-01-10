@@ -15,7 +15,7 @@ class Nav extends React.Component {
                         <a class="nav-link" href="main-header">About</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="https://carleton.ca/mds/people/jay-ramasubramanyam/">Research</a>
+                        <a class="nav-link" href="https://carleton.ca/law/people/ramasubramanyam-jayantha/">Research</a>
                     </li>
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
