@@ -4,11 +4,11 @@ class Header extends React.Component {
 
     render() {
         return (
-            <div className="container mt-5">
+            <div className="container my-5 bg-grey-transparent">
                 <header id="main-header">
                     <div className="row d-flex justify-content-end">
-                        <div className="col-lg-4">
-                            <div className="move-down d-flex flex-column bg-grey-transparent justify-content-center align-items-center text-center">
+                        <div className="col-lg-8">
+                            <div className="move-down d-flex flex-column justify-content-center align-items-center text-center">
                                 <h4 className="display-5 name m-3 text-center">Jayantha Ramasubramanyam</h4>
                                 <div className="d-flex flex-row mb-4 mt-2">
                                     <div className="p-2">
@@ -17,7 +17,7 @@ class Header extends React.Component {
                                         </a>
                                     </div>
                                     <div className="p-2">
-                                        <a href="https://carleton.ca/law/people/ramasubramanyam-jayantha/" className="text-white">
+                                        <a href="https://www.facebook.com/jayantha.shastri" className="text-white">
                                             <i className="fab fa-facebook"></i>
                                         </a>
                                     </div>

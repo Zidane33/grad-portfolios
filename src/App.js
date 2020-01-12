@@ -8,7 +8,7 @@ import Footer from './footer';
 
 function App() {
   return (
-    <div>
+    <div style={{position: 'relative', minHeight: '100vh'}}>
       <Nav />
       <Header />
       <Cta />
