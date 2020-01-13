@@ -3,9 +3,9 @@ import React from 'react';
 class Cta extends React.Component {
     render(){
         return (
-            <div className="container bg-grey-transparent p-5">
+            <div className="container bg-grey-transparent p-4 my-5">
                 <hr/>
-                <div className="row">
+                <div className="row pt-5">
                     <div className="col-lg-6 my-5">
                         <h2 className="dispaly-2 name text-center">
                             "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores nesciunt tenetur qui amet maxime."

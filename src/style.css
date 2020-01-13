@@ -18,10 +18,7 @@ code {
   background-image: url('./jay.jpg');
   background-size: contain;
   background-repeat: no-repeat;
-  border: #DA684C solid 0.5px;
-  border-radius: 1.25%;
-  padding-right: 3rem;
-  background-position: -10%;
+  background-position: -40%;
 }
 
 .bg-grey-transparent {

@@ -3,7 +3,6 @@ import './style.css';
 import Nav from './nav';
 import Header from './main-header';
 import Cta from './cta';
-import Footer from './footer';
 
 
 function App() {
@@ -12,7 +11,6 @@ function App() {
       <Nav />
       <Header />
       <Cta />
-      <Footer />
     </div>
   );
 }
