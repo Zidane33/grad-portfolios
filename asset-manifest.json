@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/grad-portfolios/static/css/main.c78de4a2.chunk.css",
-    "main.js": "/grad-portfolios/static/js/main.5d2d255d.chunk.js",
-    "main.js.map": "/grad-portfolios/static/js/main.5d2d255d.chunk.js.map",
+    "main.css": "/grad-portfolios/static/css/main.f0e59cca.chunk.css",
+    "main.js": "/grad-portfolios/static/js/main.c019f14c.chunk.js",
+    "main.js.map": "/grad-portfolios/static/js/main.c019f14c.chunk.js.map",
     "runtime-main.js": "/grad-portfolios/static/js/runtime-main.c33ea4c8.js",
     "runtime-main.js.map": "/grad-portfolios/static/js/runtime-main.c33ea4c8.js.map",
     "static/js/2.baff6445.chunk.js": "/grad-portfolios/static/js/2.baff6445.chunk.js",
     "static/js/2.baff6445.chunk.js.map": "/grad-portfolios/static/js/2.baff6445.chunk.js.map",
     "index.html": "/grad-portfolios/index.html",
-    "precache-manifest.a38e7fbefd419d450ea5c419431844d9.js": "/grad-portfolios/precache-manifest.a38e7fbefd419d450ea5c419431844d9.js",
+    "precache-manifest.563a44e9236ed0d5b6605c3462423bf1.js": "/grad-portfolios/precache-manifest.563a44e9236ed0d5b6605c3462423bf1.js",
     "service-worker.js": "/grad-portfolios/service-worker.js",
-    "static/css/main.c78de4a2.chunk.css.map": "/grad-portfolios/static/css/main.c78de4a2.chunk.css.map",
+    "static/css/main.f0e59cca.chunk.css.map": "/grad-portfolios/static/css/main.f0e59cca.chunk.css.map",
     "static/js/2.baff6445.chunk.js.LICENSE": "/grad-portfolios/static/js/2.baff6445.chunk.js.LICENSE",
     "static/media/style.css": "/grad-portfolios/static/media/jay.50150204.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.c33ea4c8.js",
     "static/js/2.baff6445.chunk.js",
-    "static/css/main.c78de4a2.chunk.css",
-    "static/js/main.5d2d255d.chunk.js"
+    "static/css/main.f0e59cca.chunk.css",
+    "static/js/main.c019f14c.chunk.js"
   ]
 }
