@@ -6,9 +6,9 @@ class Cta extends React.Component {
             <div className="container bg-grey-transparent p-4 my-5">
                 <hr/>
                 <div className="row pt-5">
-                    <div className="col-lg-6 my-5">
+                    <div className="col-lg-6">
                         <h2 className="dispaly-2 name text-center">
-                            "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores nesciunt tenetur qui amet maxime."
+                        {`Jay is currently studying the characterization and construction of ‘refugeehood’ in India and will examine the understandings that have guided such constructions.`}
                         </h2>
                     </div>
                     <div className="col-lg-6 d-flex flex-column align-items-center mb-5">

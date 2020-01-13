@@ -14,11 +14,10 @@ code {
     monospace;
 }
 
-#main-header {
+#main-picture {
   background-image: url('./jay.jpg');
   background-size: contain;
   background-repeat: no-repeat;
-  background-position: -40%;
 }
 
 .bg-grey-transparent {
