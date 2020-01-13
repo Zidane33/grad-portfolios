@@ -3,7 +3,7 @@ import React from 'react';
 class Cta extends React.Component {
     render(){
         return (
-            <div className="container bg-grey-transparent p-4 my-5">
+            <div className="container bg-grey-transparent my-5">
                 <hr/>
                 <div className="row pt-5">
                     <div className="col-lg-6">
@@ -11,7 +11,7 @@ class Cta extends React.Component {
                         {`Jay is currently studying the characterization and construction of ‘refugeehood’ in India and will examine the understandings that have guided such constructions.`}
                         </h2>
                     </div>
-                    <div className="col-lg-6 d-flex flex-column align-items-center mb-5">
+                    <div className="col-lg-6 d-flex flex-column align-items-center mt-2 mb-5">
                         <h5 className="display-5 text-white mb-4">
                             Find out more about my research
                         </h5>
@@ -21,7 +21,7 @@ class Cta extends React.Component {
                         <h5 className="display-5 text-white mb-4">
                             View My Resume
                         </h5>
-                        <button className="btn btn-success">
+                        <button className="btn btn-success mb-3">
                             <a href="https://drive.google.com/file/d/12x1ObgRNsprMkzTlwH1BmBfqpTlHHBuG/view?usp=sharing" target='_blank' rel="noopener noreferrer">Resume</a>
                         </button>
                     </div>
