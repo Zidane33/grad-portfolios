@@ -12,9 +12,6 @@ class Nav extends React.Component {
                 <div className="collapse navbar-collapse" id="navbarNavDropdown">
                 <ul className="navbar-nav">
                     <li className="nav-item">
-                        <a className="nav-link" href="main-header">About</a>
-                    </li>
-                    <li className="nav-item">
                         <a className="nav-link" href="https://carleton.ca/law/people/ramasubramanyam-jayantha/">Research</a>
                     </li>
                     <li className="nav-item dropdown">
